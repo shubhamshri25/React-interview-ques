@@ -1,0 +1,18 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.text-color {
+  margin-top: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  fontsize: 60px;
+  margintop: 50px;
+  flexdirection: column;
+  gap: 20px;
+}
